@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(214, 103, 51);
+    font-size: 30px;
+}
+p {
+    color: rgb(43, 55, 226);
+    font-family: 'Times New Roman', Times, serif;
+}
+img { 
+    border: 2px solid black;
+}
